@@ -1,6 +1,6 @@
-# Division Alpha, Software Ventures
+# Product Portfolio
 
-## Product Portfolio
+## Division Alpha, Software Ventures
 
 ### [LambdaVibes](https://lambdavibes.com)
 
@@ -82,3 +82,7 @@ Social media scheduler for creators, brands, and agencies that allows planning a
 - Uses a visual weekly calendar so you can drag, drop, and reschedule posts in seconds
 - Supports multi-account, multi-media posts so one setup can publish everywhere at once, with every connection secured via official OAuth.
 - Release: **Stable Alpha December 2025, Open Beta July 2026**
+
+## Division Beta, Engineering Ventures
+
+## Division Gamma, Consulting Ventures
