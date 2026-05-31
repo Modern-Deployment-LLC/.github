@@ -8,9 +8,10 @@
 
 
 All-inclusive project interfaces to seamlessly connect and extend functionality to different cloud microservices across accounts.
-- Unifies functions, libraries, endpoints, database connections, costs, and logs into a single workspace view and organized per project for faster productivity
-- Extends existing capabilities to cloud platforms with full account backups, version control, copy, rename, one-click serverless library installation, cross-account transfers
-- Connections include AWS, Azure, MongoDB, etc.
+- Unifies functions, roles, libraries, endpoints, database connections, costs, and logs into a single workspace view and organized per project for faster productivity.
+- Extends existing capabilities to cloud platforms with full account backups, version control, copy, rename, one-click serverless library installation, cross-account transfers.
+- Connections currently cover most services across AWS, Azure, and MongoDB.
+- Future implementations include integrated support for functions with custom ML/AI models, prebuilt templates for emails, authentication, billing, and additional platform connections.
 - Release: **Stable Alpha March 2026 , Open Beta August 2026**
 
 ***
@@ -21,10 +22,10 @@ All-inclusive project interfaces to seamlessly connect and extend functionality 
 
 
 Dynamic e-signature platform that enables easy sending, creative fields, and organized tracking for signatures to manage important documents more efficiently for both teams and clients.
-- Uses reusable templates, linked fields, and conditional sections to eliminate repetitive data entry
-- Includes private, individual signatures for closed parties and public, always-available signatures allowing clear audit trails for every signer
-- Includes templates for real-world contracts like client agreements, onboarding packets, property sales and rentals, liability waivers, NDAs, consent forms, and recurring business documents
-- Simple user interfaces across desktop, mobile web, mobile app with encrypted links, secure passwordless authentication, and transferable documents across accounts
+- Uses reusable templates, linked fields, and conditional sections to eliminate repetitive data entry.
+- Includes private, individual signatures for closed parties and public, always-available signatures allowing clear audit trails for every signer.
+- Includes templates for real-world contracts like client agreements, onboarding packets, property sales and rentals, liability waivers, NDAs, consent forms, and recurring business documents.
+- Simple user interfaces across desktop, mobile web, mobile app with encrypted links, secure passwordless authentication, and transferable documents across accounts.
 - Release: **Open Beta November 2025, Full Launch July 2026**
 
 ***
@@ -38,7 +39,7 @@ Transportation optimization service that finds the cheapest way to get anywhere 
 - Generates every realistic route combination across plane, train, bus, ferry, and rideshare options instead of only showing the cheapest single ticket.
 - Includes local connectors between ZIPs, nearby airports, and alternate stations, and transfer points to uncover cheaper route options automatically.
 - Reduces app-hopping by replacing fragmented searches between local transport agencies in one click.
-- Powered by a machine learning model built from US DOT research to predict the fastest, low cost routes
+- Powered by a machine learning model built from US DOT research to predict the fastest, low cost routes.
 - Create full itinerary reports for friends, family or business coming from different locations, helping coordinate the lowest-cost routes for everyone.
 - Release: **Open Beta May 2026**
 
@@ -51,8 +52,8 @@ Transportation optimization service that finds the cheapest way to get anywhere 
 
 Stock platform for live market tracking, historical charting, strategy signals, and quant-focused automation.
 - Built on custom data architecture that delivers historical and live stock data and smart insights, with sharable API endpoints for quant users.
-- Allows pre-built alerts and auto-trading scripts powered by secure integrations with Alpaca, Finnhub, and Twelve Data
-- Leaves room for advanced features managed accounts through politician mirroring, independent investment managers, historical strategies including mean reversal and seasonal patterns, and custom tailored machine learning models for stock recommendations
+- Allows pre-built alerts and auto-trading scripts powered by secure integrations with Alpaca, Finnhub, and Twelve Data.
+- Leaves room for advanced features managed accounts through politician mirroring, independent investment managers, historical strategies including mean reversal and seasonal patterns, and custom tailored machine learning models for stock recommendations.
 - Release: **Stable Alpha July 2025, Open Beta July 2026**
 
 ***
@@ -74,12 +75,9 @@ Photo-sharing and discovery platform built for general users and aspiring visual
 
 ### POST😂
 
-
-
-
 Social media scheduler for creators, brands, and agencies that allows planning and publishing content ahead of time across major platforms from one simple calendar.
-- Centralizes Instagram, Facebook, X, TikTok, and LinkedIn into a single scheduling dashboard
-- Uses a visual weekly calendar so you can drag, drop, and reschedule posts in seconds
+- Centralizes Instagram, Facebook, X, TikTok, and LinkedIn into a single scheduling dashboard.
+- Uses a visual weekly calendar so you can drag, drop, and reschedule posts in seconds.
 - Supports multi-account, multi-media posts so one setup can publish everywhere at once, with every connection secured via official OAuth.
 - Release: **Stable Alpha December 2025, Open Beta July 2026**
 
