@@ -81,8 +81,7 @@ Social media scheduler for creators, brands, and agencies that allows planning a
 ***
 
 ## Division Beta, Engineering
-
-### PlanetCivil - Phase 1 Design & Permitting
+### [PlanetCivil - Phase 1 Design & Permitting](https://planetcivil.com)
 Engineering design platform for CAD, GIS, simulation, infrastructure, permitting, and reporting analysis in one integrated workspace. It combines drafting, validation, modeling, hydrology, stormwater, utilities, traffic, and physics-based visualization for engineers to work in the same environment without bouncing between disconnected software.
 - Design Restrictions: Ensures all geometry align with permitting from national requirements database of  local and regional agencies
 - Spatial analysis: Integrates soils, zoning, land use, wetlands, flood zones, topography, aerial imagery, and special waters from official government sources.
