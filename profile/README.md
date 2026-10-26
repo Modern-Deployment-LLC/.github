@@ -1,25 +1,21 @@
-# Venture Products Portfolio
+<a href="https://moderndeployments.com/"><img src="https://cloud.moderndeployments.com/assets/icons/2026/md-2026-tuwide.png" alt="Modern Deployment logo" width="300"></a>
 
 ## Division Alpha, Software
 
-### [LambdaVibes](https://lambdavibes.com)
+<a href="https://www.magixtry.com"><img src="https://cloud.magixtry.com/assets/icons/magixtry-logo-twide.png" alt="Magixtry logo" width="320"></a>
 
-
-
-
-All-inclusive project interfaces to seamlessly connect and extend functionality to different cloud microservices across accounts.
+Business and technology productivity software for teams, currently with two products: Studio and VPN.
+- Magixtry Studio provides all-inclusive project interfaces to seamlessly connect and extend functionality to different cloud microservices across accounts.
 - Unifies functions, roles, libraries, endpoints, database connections, costs, and logs into a single workspace view and organized per project for faster productivity.
 - Extends existing capabilities to cloud platforms with full account backups, version control, copy, rename, one-click serverless library installation, cross-account transfers.
 - Connections currently cover most services across AWS, Azure, MongoDB, and Cloudflare.
 - Future implementations include integrated support for functions with custom ML/AI models, prebuilt templates for emails, authentication, billing, and additional platform connections.
-- Release: **Stable Alpha March 2026 , Open Beta August 2026**
+- Magixtry VPN is meant for business and travel and allows for fast global connections, usage limits per device, hiding your team's location, and restrict cloud and production systems to your team only.
+- Release: **Stable Alpha March 2026 , Closed Beta August 2026**
 
 ***
 
-### [SignOfficial](https://signofficial.com)
-
-
-
+### [SignOfficial](https://www.signofficial.com)
 
 Dynamic e-signature platform that enables easy sending, creative fields, and organized tracking for signatures to manage important documents more efficiently for both teams and clients.
 - Uses reusable templates, linked fields, and conditional sections to eliminate repetitive data entry.
@@ -28,9 +24,11 @@ Dynamic e-signature platform that enables easy sending, creative fields, and org
 - Simple user interfaces across desktop, mobile web, mobile app with encrypted links, secure passwordless authentication, and transferable documents across accounts.
 - Release: **Open Beta November 2025, Full Launch July 2026**
 
+<a href="https://www.signofficial.com"><img src="https://cloud.signofficial.com/assets/icons/icon.png" alt="SignOfficial logo" width="160"></a>
+
 ***
 
-### [BusPlaneTrain](https://busplanetrain.com)
+<a href="https://www.busplanetrain.com"><img src="https://cloud.busplanetrain.com/assets/site/bpt-wide-transparent.png" alt="BusPlaneTrain logo" width="220"></a>
 
 
 
@@ -45,55 +43,21 @@ Transportation optimization service that finds the cheapest way to get anywhere 
 
 ***
 
-### EtaQuant
-
-
-
-
-Stock platform for live market tracking, historical charting, strategy signals, and quant-focused automation.
-- Built on custom data architecture that delivers historical and live stock data and smart insights, with sharable API endpoints for quant users.
-- Allows pre-built alerts and auto-trading scripts powered by secure integrations with Alpaca, Finnhub, and Twelve Data.
-- Leaves room for advanced features managed accounts through politician mirroring, independent investment managers, historical strategies including mean reversal and seasonal patterns, and custom tailored machine learning models for stock recommendations.
-- Release: **Stable Alpha July 2025, Open Beta July 2026**
-
-***
-
-### PiaNGy
-
-Photo-sharing and discovery platform built for general users and aspiring visual professionals, combining client galleries, collaborative albums, portfolio pages, smart organization, and image processing tools in one polished system.
-- Gives creatives one place to showcase approved public work through portfolio pages, deliver private client galleries, or share simple albums with friends and collaborators.
-- Helps people discover aspiring photographers through specific specialties or virality.
-- Supports businesses with public, completed work galleries for potential clients and private galleries for internal events, stakeholders and project tracking, etc.
-- Keeps images organized with secure email-based sharing, tagging, optional auto recognition sorting and searching, and duplicate detections.
-- Expands beyond galleries with easy, freely available image processing tools including dynamic grid collage layouts, color operations, background removal, cropping, facial touchups, format conversion, and more.
-- Release: **Initial Design May 2026, Stable Alpha July 2026**
-
-***
-
-### POSTXD
-
-Social media scheduler for creators, brands, and agencies that allows planning and publishing content ahead of time across major platforms from one simple calendar.
-- Centralizes Instagram, Facebook, X, TikTok, and LinkedIn into a single scheduling dashboard.
-- Uses a visual weekly calendar so you can drag, drop, and reschedule posts in seconds.
-- Supports multi-account, multi-media posts so one setup can publish everywhere at once, with every connection secured via official OAuth.
-- Release: **Stable Alpha December 2025, Open Beta July 2026**
-
-***
 
 ## Division Beta, Engineering
-### [PlanetCivil - Phase 1 Design & Permitting](https://planetcivil.com)
-Engineering design platform for CAD, GIS, simulation, infrastructure, permitting, and reporting analysis in one integrated workspace. It combines drafting, validation, modeling, hydrology, stormwater, utilities, traffic, and physics-based visualization for engineers to work in the same environment without bouncing between disconnected software.
-- Design Restrictions: Ensures all geometry align with permitting from national requirements database of  local and regional agencies
-- Spatial analysis: Integrates soils, zoning, land use, wetlands, flood zones, topography, aerial imagery, and special waters from official government sources.
-- Stormwater modeling: Computes curve numbers, runoff, impervious, water quality, and treatment using established methods such as TR-55 and more.
-- Automated engineering reports: Produces soils reports, curve numbers, and other site analysis outputs based on jurisdictional data and defined basins.
-- Smart Objects: Automatically delineate basins, catchments, and ponds using surfaces and storm systems and update linework with geometry variables.
-- Rendering: Visualises layers in both 2D/3D and generates accurate visual representations by interpolating colors using topography data and aerial imagery.
-- Data interoperability: Supports industry-standard formats including Shapefile, LandXML, File Geodatabase (FGDB), DEM, and GeoTIFF.
-- Change management: Easily identifies additions, deletions, and conflicts on updates to references data inputs.
-- Cross-platform access: Available in both desktop and browser-based environments for flexible work and collaboration anywhere.
+### [PlanetCivil - Phase 1 Design & Permitting](https://www.planetcivil.com)
+PlanetCivil's aim is to extend the capabilities of existing engineering software, including Civil3D, ArcGIS, WaterCAD, StormCAD, and BMPTRAINS, or develop a custom tool whenever nothing suitable exists. The result is better organization, precision, and validation for permitting deliverables through computerized formatting, object-oriented calculations, and discrepancy warnings.
+- **PlanetBMP** — Designed in Kotlin. Streamlines water quality, nutrient loadings, BMP treatment routing, and pond designs.
+- **Civil3D Land Development Extension** — Designed in C#. 25+ additional commands to optimize drafting, annotations, and deliverable workflows for the design team.
+- **ArcGIS Civil Engineering Toolbox** — Designed in Python. 35+ spatial analysis scripts catered to facilitate engineering calculations and client proposals.
+- **Municipal Lift Station Design** — Designed in Kotlin. Per-agency calculations for FMs, TDH, pump selection, cycle time, and buoyancy analysis.
+- **Historical ICPR3/4 to Stormwise Model Builder** — Designed in Kotlin. Upload scanned historical PDFs to extract model data into structured input files.
+- **Reuse Demand Design** — Designed in Kotlin. Calculate and generate reports for reuse water demand by land use using drawing files.
+- **Civil3D to WaterCAD Model Builder** — Designed in C#. Export parcels, pipe networks, and surfaces to sewer, water, and reuse models with demands and elevation.
+- **TR-55 Pre-Development Soils Report** — Designed in Kotlin. Generate composite curve numbers, shapefiles, and reports using NRCS Web Soil Survey, FDEP land cover, and project basins within five minutes.
 - Release: **Initial Design November 2025, Stable Alpha May 2026, Proprietary Beta June 2026**
-- Please contact for further information regarding Phase 2 Engineering, Phase 3 Rendering, and Phase 4 Space & Construction.
+
+<a href="https://www.planetcivil.com"><img src="https://cloud.planetcivil.com/assets/logos/pc-3dc-tsq.png" alt="PlanetCivil logo" width="160"></a>
 ***
 
 ## Division Gamma, Consulting
@@ -101,4 +65,9 @@ Engineering design platform for CAD, GIS, simulation, infrastructure, permitting
 Modern Deployment’s consulting team, Division Gamma, provides professional consulting for businesses of all sizes, from small firms to large enterprises. We offer clear, productive advice on automation, system architecture, and workflow optimization through specialized engineers who can implement all solutions from general to areas requiring deep domain expertise.
 
 Division Gamma’s team is also involved in independent projects and research, supported by the company’s infrastructure, marketing strategy, and architecture guidance, eventually creating reliable, investable, and high-impact ventures. These non-ownership stake initiatives exist solely to build world-class engineers and a network for advertising support and connection with potential investors.
+
+<p>
+<a href="https://www.flrealtyinternational.com/"><img src="https://cloud.flrealtyinternational.com/assets/logos/wide-tlogo-1600x900.png" alt="Florida Realty International logo" width="220"></a>&nbsp;&nbsp;<a href="https://cbfsarasota.com/"><img src="https://cloud.cbfsarasota.com/assets/logos/Transparent%20Logo.png" alt="CB&Sarasota logo" width="160"></a>&nbsp;&nbsp;<a href="https://singmultiverse.com/"><img src="https://cloud.singmultiverse.com/assets/logos/singmultiverse-tsq.png" alt="SingMultiverse logo" width="120"></a>
+</p>
+
 
